@@ -1,7 +1,9 @@
 # 💻 Welcome to My GitHub
 
 This is where I share code, projects, and experiments.  
-Some repos are fully built tools, others are prototypes or ideas in progress.
+Some repos are fully built tools, others are prototypes or ideas in progress.  
+
+> 💡 **Note:** A large portion of this work involves testing, experimenting, and prototyping with **ChatGPT-5** to explore new ideas and push project concepts further.
 
 ---
 
@@ -20,11 +22,17 @@ Some repos are fully built tools, others are prototypes or ideas in progress.
 - **Python Scripts** – Automation tools, data processing, and small utilities.
 - **Frontend Design** – Clean and responsive UI with HTML + CSS.
 - **JavaScript Features** – Dynamic and interactive web functionality.
+- **AI-Assisted Builds** – Code, designs, and concepts tested with ChatGPT-5.
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahtollysmells&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahtollysmells&layout=compact&theme=tokyonight)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=noahtollysmells&style=for-the-badge)
 
 ---
 
