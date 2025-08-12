@@ -24,7 +24,7 @@ Some repos are fully built tools, others are prototypes or ideas in progress.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahtollysmellsE&show_icons=true&theme=tokyonight)
 
 ---
 
